@@ -1,0 +1,28 @@
+body{
+  background-color:blue;
+
+}
+
+hr {
+
+border-style: dotted none none none;
+border-width: 5px;
+border-color: white;
+width: 40px;
+}
+h1{
+color: #ebecf1;
+
+}
+
+/*img {
+
+
+height: 200px;
+
+}
+*/
+.port {
+  height: 200px;
+  background-color: green;
+}
